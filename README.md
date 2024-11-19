@@ -7,7 +7,7 @@
 ![Unity Pipeline Support (HDRP)](https://img.shields.io/badge/HDRP_✔️-darkred?logo=unity)
  
 A simple fake volumetric light shader effect. It was created for Serious Point Games as part of my studies in shader development. 
-It was created for Unity URP (6000.0.27f1) but it can work in other unity versions (like Unity 2022 or Unity 2019) and other pipelines (like Built-In).
+It was created for Unity 6 URP (6000.0.27f1) but it can work in other unity versions (like Unity 2022 or Unity 2019) and other pipelines (like Built-In).
 
 This method of using a material shader to fake volumetric lighting is often used to save on computer resources & computational power, 
 to be able to run on lower end devices better, or sometimes it can be due to the designer's artistic direction for the game.
