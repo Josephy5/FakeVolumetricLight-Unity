@@ -2,6 +2,9 @@
 
 # Fake Volumetric Light Shader
 ![Unity Version](https://img.shields.io/badge/Unity-6000.0.27%27LTS%2B-blueviolet?logo=unity)
+![Unity Pipeline Support (Built-In)](https://img.shields.io/badge/BiRP_✔️-darkgreen?logo=unity)
+![Unity Pipeline Support (URP)](https://img.shields.io/badge/URP_✔️-blue?logo=unity)
+![Unity Pipeline Support (HDRP)](https://img.shields.io/badge/HDRP_✔️-darkred?logo=unity)
  
 A simple fake volumetric light shader effect. It was created for Serious Point Games as part of my studies in shader development. 
 It is meant to be for Unity URP (6000.0.27f1) but it can work in some older unity versions (like Unity 2022) and other pipelines (like Built-In).
