@@ -18,6 +18,7 @@ You can refer to the effect's documentation for more info (should be in the repo
 
 ## Example[s]
 ![image](https://github.com/user-attachments/assets/9ab5895e-8e63-4a1d-bf29-5d48652cc655)
+<br>
 The Look of the shader effect in the dark
 
 ## Installation
